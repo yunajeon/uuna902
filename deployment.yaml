@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: web-argo
-          image: uuna902/web-argo:1
+          image: uuna902/web-argo:2
           ports:
             - containerPort: 80
